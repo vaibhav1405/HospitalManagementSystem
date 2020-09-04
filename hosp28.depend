@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543593200 source:d:\codeblocks\hosp28\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<dos.h>
+	<ctime>
+
